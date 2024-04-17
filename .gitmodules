@@ -1,3 +1,0 @@
-[submodule "llc"]
-	path = llc
-	url = git@github.com:luhsra/llfree-c.git
